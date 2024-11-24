@@ -32,3 +32,21 @@ This repository showcases a collection of data analytics projects performed usin
 ## How to Use
 1. Click on any `.xlsx` file to view and download the project.
 2. Open the file in Microsoft Excel to explore the data and dashboards.
+
+
+## SQL Projects
+
+### 1. Retail Sales Analysis
+- **Description**: Analyzed retail sales data to uncover trends in revenue, customer behavior, and product performance.
+- **Techniques Used**: SQL queries with `SUM`, `AVG`, `GROUP BY`, `JOIN`, and subqueries.
+- **File**: [Retail_Sales_Analysis.sql](Retail_Sales_Analysis.sql)
+
+### 2. Customer Behavior Analysis
+- **Description**: Explored customer behavior to identify high-value customers and purchasing patterns.
+- **Techniques Used**: SQL joins, conditional filtering, and aggregate functions.
+- **File**: [Customer_Behavior_Analysis.sql](Customer_Behavior_Analysis.sql)
+
+### 3. Music Store Analysis
+- **Description**: Analyzed sales and customer behavior for a music store to identify top-selling products and revenue growth opportunities.
+- **Techniques Used**: SQL joins, filtering, and database queries.
+- **File**: [Music_Store_Analysis.sql](Music_Store_Analysis.sql)
